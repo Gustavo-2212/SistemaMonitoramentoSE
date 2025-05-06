@@ -99,6 +99,9 @@ A interface exibe:
 	
 ---
 
+## 🚨 Review
+> O professor orientou aos alunos a refatoração do projeto, para algo semelhante a um supervisório de subestações elétricas, de modo a apresentar os gráficos de modo concomitante das Unidades de Medições, bem como a geração de eventos e alertas com a característica de, realmente, chamar a atenção.
+
 ### ✉️ Contato
 - 📧 Gustavo Alves de Oliveira<br>
 - 📱 (34) 99636-2512<br>
